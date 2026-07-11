@@ -1,6 +1,6 @@
 # README
 
-Data and analysis code for White et al. (2025) Seeing through the light: colour contrasts drive human detection in the wild.
+Data and analysis code for White et al. (2026) Chromatic contrasts predict human target detection in a natural search task.
 
 ## Directory structure
 - data/
