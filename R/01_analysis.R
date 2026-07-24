@@ -1,4 +1,4 @@
-## Code for: White et al. (2025) Seeing through the light: Colour contrasts drive human detection in the wild
+## Code for: White et al. (2026) Chromatic contrasts predict human target detection in a natural search task
 
 ## --- Clear out --- ##
   rm(list = ls())
