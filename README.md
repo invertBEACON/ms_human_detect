@@ -1,5 +1,7 @@
 # README
 
+[![DOI](https://zenodo.org/badge/1068850474.svg)](https://doi.org/10.5281/zenodo.21538260)
+
 Data and analysis code for White et al. (2026) Chromatic contrasts predict human target detection in a natural search task.
 
 ## Directory structure
